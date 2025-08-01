@@ -2,9 +2,9 @@
 <h1 align="center">Sup, I'm Developer Anonymous (aka DA344 or Anony)</h1>
 <h3 align="center">Student and Programmer</h3>
 
-![note]
-  Do you want 200€ for free in DigitalOcean? Use my referral link!:
-  [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=5000f618cfe1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+> [!note]
+> Do you want 200€ for free in DigitalOcean? Use my referral link!:
+> [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=5000f618cfe1&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 <p align="center">
   I'm experienced in Python, JavaScript (& TypeScript), Rust, Lua, and that such languages.
