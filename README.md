@@ -11,6 +11,10 @@
   I like to contribute on open-sourced projects.
 </p>
 
+<p align="center">
+  Contact: contact@dev-anony.dev
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=da-344&label=Profile%20views&color=ff0000&style=flat" alt="anony lol" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=da-344" alt="yet again anony" /></a> </p>
 
